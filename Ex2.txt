@@ -1,0 +1,12 @@
+1 - V
+2 - F
+3 - Lambda (=>)
+4 - public bool IsNegative(int x) => x<0;
+5 - F (podem ter 0)
+6 - V
+7 - public int WordCount(string s)
+{
+	return s.Split().Length;
+}
+8 - Func
+9 - Func <string, int>
